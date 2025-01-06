@@ -12,7 +12,6 @@
   refs.openModalBtn_2.addEventListener('click', toggleModal);
   refs.closeModalBtn_2.addEventListener('click', toggleModal);
 
-
   function toggleModal() {
     refs.modal_2.classList.toggle('is-hidden');
   }
